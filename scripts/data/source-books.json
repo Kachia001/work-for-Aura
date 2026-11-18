@@ -1,0 +1,100 @@
+[
+  {
+    "id": "76d861fb-bf01-471a-9a37-26fe9ad64af9",
+    "name": "파이널 패스!!(시즌7~9)",
+    "type": "pass",
+    "prices": ["96,000원", "5%", "91,200원"],
+    "image": "https://rypeiftmnidosobbitnk.supabase.co/storage/v1/render/image/public/passes/76d861fb-bf01-471a-9a37-26fe9ad64af9/1.jpg?format=webp&quality=100&width=487&height=658"
+  },
+  {
+    "id": "03f31d02-1828-4884-80b3-1ea5f0420780",
+    "name": "2027 Hidden Kice 시즌4~9 패스",
+    "type": "pass",
+    "prices": ["180,000원", "7%", "167,400원"],
+    "image": "https://rypeiftmnidosobbitnk.supabase.co/storage/v1/render/image/public/passes/03f31d02-1828-4884-80b3-1ea5f0420780/1.png?format=webp&quality=100&width=487&height=658"
+  },
+  {
+    "id": "19490568-3207-4ec7-aff2-d466b6afc641",
+    "name": "2027 Hidden Kice 시즌4~6 패스",
+    "type": "pass",
+    "prices": ["84,000원", "5%", "79,800원"],
+    "image": "https://rypeiftmnidosobbitnk.supabase.co/storage/v1/render/image/public/passes/19490568-3207-4ec7-aff2-d466b6afc641/1.jpg?format=webp&quality=100&width=487&height=658"
+  },
+  {
+    "id": "aa524eec-ea1e-48cb-a4f3-bd0080241a6d",
+    "name": "2027 Hidden Kice 시즌1~9 패스",
+    "type": "pass",
+    "prices": ["300,000원", "10%", "270,000원"],
+    "image": "https://rypeiftmnidosobbitnk.supabase.co/storage/v1/render/image/public/passes/aa524eec-ea1e-48cb-a4f3-bd0080241a6d/1.PNG?format=webp&quality=100&width=487&height=658"
+  },
+  {
+    "id": "4f36b271-713e-4a2f-83fd-978a11e97b3c",
+    "name": "2027 Hidden Kice 시즌9",
+    "type": "single",
+    "prices": ["32,000원"],
+    "image": "https://rypeiftmnidosobbitnk.supabase.co/storage/v1/render/image/public/products/4f36b271-713e-4a2f-83fd-978a11e97b3c/1.PNG?format=webp&quality=100&width=487&height=658"
+  },
+  {
+    "id": "c095302c-09c1-4750-a06c-8f711d7fa416",
+    "name": "2027 Hidden Kice 시즌8",
+    "type": "single",
+    "prices": ["32,000원"],
+    "image": "https://rypeiftmnidosobbitnk.supabase.co/storage/v1/render/image/public/products/c095302c-09c1-4750-a06c-8f711d7fa416/1.PNG?format=webp&quality=100&width=487&height=658"
+  },
+  {
+    "id": "f0da9bfe-d981-4d94-803f-26ad30b67a9f",
+    "name": "2027 Hidden Kice 시즌7",
+    "type": "single",
+    "prices": ["32,000원"],
+    "image": "https://rypeiftmnidosobbitnk.supabase.co/storage/v1/render/image/public/products/f0da9bfe-d981-4d94-803f-26ad30b67a9f/1.PNG?format=webp&quality=100&width=487&height=658"
+  },
+  {
+    "id": "d6031bc8-cbb1-4566-91d5-5c8210fa2056",
+    "name": "2027 Hidden Kice 시즌6",
+    "type": "single",
+    "prices": ["28,000원"],
+    "image": "https://rypeiftmnidosobbitnk.supabase.co/storage/v1/render/image/public/products/d6031bc8-cbb1-4566-91d5-5c8210fa2056/1.PNG?format=webp&quality=100&width=487&height=658"
+  },
+  {
+    "id": "e779cb00-dae7-46f2-abc7-89e28a0ec530",
+    "name": "2027 Hidden Kice 시즌1~3 패스",
+    "type": "pass",
+    "prices": ["120,000원", "5%", "114,000원"],
+    "image": "https://rypeiftmnidosobbitnk.supabase.co/storage/v1/render/image/public/passes/e779cb00-dae7-46f2-abc7-89e28a0ec530/1.jpg?format=webp&quality=100&width=487&height=658"
+  },
+  {
+    "id": "f6e13353-d093-477f-902e-cc8be94eec1b",
+    "name": "2027 Hidden Kice 시즌5",
+    "type": "single",
+    "prices": ["28,000원"],
+    "image": "https://rypeiftmnidosobbitnk.supabase.co/storage/v1/render/image/public/products/f6e13353-d093-477f-902e-cc8be94eec1b/1.jpg?format=webp&quality=100&width=487&height=658"
+  },
+  {
+    "id": "e449ff37-e7f5-4453-8b26-f25e45a75ba8",
+    "name": "2027 Hidden Kice 시즌4",
+    "type": "single",
+    "prices": ["28,000원"],
+    "image": "https://rypeiftmnidosobbitnk.supabase.co/storage/v1/render/image/public/products/e449ff37-e7f5-4453-8b26-f25e45a75ba8/1.jpg?format=webp&quality=100&width=487&height=658"
+  },
+  {
+    "id": "3bcff0e0-0253-4572-abb4-afbdfc212435",
+    "name": "2027 Hidden Kice 시즌3",
+    "type": "single",
+    "prices": ["40,000원"],
+    "image": "https://rypeiftmnidosobbitnk.supabase.co/storage/v1/render/image/public/products/3bcff0e0-0253-4572-abb4-afbdfc212435/1.jpg?format=webp&quality=100&width=487&height=658"
+  },
+  {
+    "id": "0b0e58d9-ed33-49c6-ad73-dcc69681de7e",
+    "name": "2027 Hidden Kice 시즌2",
+    "type": "single",
+    "prices": ["40,000원"],
+    "image": "https://rypeiftmnidosobbitnk.supabase.co/storage/v1/render/image/public/products/0b0e58d9-ed33-49c6-ad73-dcc69681de7e/1.jpg?format=webp&quality=100&width=487&height=658"
+  },
+  {
+    "id": "3ddf1b37-79a7-4a6e-b515-40cad7c5c8ca",
+    "name": "2027 Hidden Kice 시즌1",
+    "type": "single",
+    "prices": ["40,000원"],
+    "image": "https://rypeiftmnidosobbitnk.supabase.co/storage/v1/render/image/public/products/3ddf1b37-79a7-4a6e-b515-40cad7c5c8ca/1.jpg?format=webp&quality=100&width=487&height=658"
+  }
+]
