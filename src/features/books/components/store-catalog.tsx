@@ -61,9 +61,11 @@ export function StoreCatalog() {
           </Alert>
         )}
 
-        {isSuccess && data.items.length > 0 ? (
+        {isSuccess && data.items.length > 0 && (
           <BookGrid books={data.items} />
-        ) : (
+        )}
+
+        {isSuccess && data.items.length === 0 && (
           <div className="catalog-message text-center">
             <p>검색 결과가 없습니다.</p>
             <Button variant="outline" className="mt-4" onClick={resetFilters}>
